@@ -1,0 +1,1 @@
+print('Generating image using Stable Diffusion...')

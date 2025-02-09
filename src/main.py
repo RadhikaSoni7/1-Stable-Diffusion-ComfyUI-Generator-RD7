@@ -1,0 +1,1 @@
+print('Launching ComfyUI for image generation...')
