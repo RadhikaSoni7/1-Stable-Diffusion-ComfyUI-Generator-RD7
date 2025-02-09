@@ -36,10 +36,6 @@ python main.py
 - Input a prompt and configure settings.
 - Click Generate to create AI-powered images.
 
-📸 Sample Outputs
-![Futuristic City](sample_images/futuristic_city.png)
-![Mystical Forest](sample_images/mystical_forest.png)
-
 📝 License
 This project is licensed under the MIT License – feel free to use and modify it.
 
